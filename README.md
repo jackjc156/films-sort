@@ -230,4 +230,4 @@ T = number of tags
 
 Author
 
-Project developed for a Data Structures and Algorithms course.
+Me, project developed for a Data Structures and sorting course.
